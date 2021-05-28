@@ -1,0 +1,37 @@
+.NavLinks
+{
+    /* border: 3px solid red ; */
+    margin-left: 25em;
+    
+}
+
+.NavLinks li:nth-child(1)
+{
+margin-right: 10mm;
+}
+.NavLinks li:nth-child(2)
+{
+margin-right: 10mm;
+}
+.jTron
+{
+    margin: 0;
+}
+.jTron p
+{
+    display: flex;
+    justify-content: center;
+}
+.ProjGrp 
+{
+    display: inline-flex;
+    margin-left: 7mm;
+    
+}
+.ProjGrp:nth-child(1)
+{
+    display: inline-flex;
+    margin-right: 7mm;
+    
+}
+
